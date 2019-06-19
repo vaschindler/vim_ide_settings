@@ -1,1 +1,1 @@
-# vim_ide_settings
+# vim IDE Settings
